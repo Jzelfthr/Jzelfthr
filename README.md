@@ -1,4 +1,4 @@
- ![Moving Image](https://media.giphy.com/media/3o7aD2sa5zrmIrj2z6/giphy.gif)
+![Moving Image](https://i.pinimg.com/originals/d0/c5/d2/d0c5d2626fe05de81f3afe9d80c815e8.gif)
 <h1 align="center">Hi there, I'm Jezzel 👋</h1>
 <p align="center">
 </p>
