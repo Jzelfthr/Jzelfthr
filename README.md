@@ -1,5 +1,7 @@
 <h1 align="center">Hi there, I'm Jezzel 👋</h1>
-![Moving Image]((https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif))
+<p align="center">
+  ![Moving Image](https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif)
+</p>
 <p align="center">🌱 Data Science Student • 🌏 GIS Explorer • 📊 Data Storyteller</p>
 
 ---
