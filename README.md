@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Jezzel 👋</h1>
 <p align="center">
-  ![Moving Image](https://github.com/Jzelfthr/Jzelfthr/blob/main/data.gif?raw=true)
+  ![Moving Image](https://media.giphy.com/media/3o7aD2sa5zrmIrj2z6/giphy.gif)
 </p>
 <p align="center">🌱 Data Science Student • 🌏 GIS Explorer • 📊 Data Storyteller</p>
 
