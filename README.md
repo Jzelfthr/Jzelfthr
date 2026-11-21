@@ -9,7 +9,7 @@
 <h3 align="center">🧠 About Me</h3>
 
 <p align="center">
-🎓 I’m currently a 3rd-year Data Science student—curious, thoughtful, and always exploring new ways to understand the world through data.
+🎓 I’m currently a 4th-year Data Science student—curious, thoughtful, and always exploring new ways to understand the world through data.
 </p>
 
 <p align="center">
